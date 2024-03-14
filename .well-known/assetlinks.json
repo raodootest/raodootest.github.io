@@ -1,1 +1,14 @@
-"[]" 
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "hr.rao.android.instantApp",
+        "sha256_cert_fingerprints": [
+          "C1:88:C2:89:CC:E7:77:ED:A6:E1:E5:EB:0A:7F:EC:C6:51:36:13:DA:72:9A:4B:57:3C:57:99:0E:BA:81:69:E0"
+        ]
+      }
+    }
+  ]
