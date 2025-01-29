@@ -7,5 +7,18 @@
         "sha256_cert_fingerprints":
         ["AF:17:5B:67:95:12:EE:15:F8:75:87:EF:B1:EF:4A:56:E4:63:0B:59:F1:8F:C8:46:36:05:7A:60:AC:11:10:F1"]
       }
+    },
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "hr.rao.android.instantApp",
+        "sha256_cert_fingerprints": [
+          "C1:88:C2:89:CC:E7:77:ED:A6:E1:E5:EB:0A:7F:EC:C6:51:36:13:DA:72:9A:4B:57:3C:57:99:0E:BA:81:69:E0",
+          "AF:17:5B:67:95:12:EE:15:F8:75:87:EF:B1:EF:4A:56:E4:63:0B:59:F1:8F:C8:46:36:05:7A:60:AC:11:10:F1"
+        ]
+      }
     }
   ]
