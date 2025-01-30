@@ -4,8 +4,10 @@
       "target": {
         "namespace": "android_app",
         "package_name": "net.openid.appauthdemo",
-        "sha256_cert_fingerprints":
-        ["B7:EF:D9:FD:23:42:4E:6E:5A:D3:F4:0F:9A:5C:E1:6E:73:2D:2F:57:B2:2B:31:80:69:B6:12:3E:F9:56:85:23"]
+        "sha256_cert_fingerprints":[
+            "B7:EF:D9:FD:23:42:4E:6E:5A:D3:F4:0F:9A:5C:E1:6E:73:2D:2F:57:B2:2B:31:80:69:B6:12:3E:F9:56:85:23",
+            "E8:B4:6C:D0:0B:F6:A9:9B:C6:80:D8:7E:A0:17:6C:D6:7E:74:BB:DD:29:8F:5D:61:B2:25:B1:B5:87:B4:00:21"
+        ]
       }
     },
     {
